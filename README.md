@@ -6,7 +6,7 @@ created at 12.02.23
 
 By creating this app I practiced React.js state handling, components, passing props and conditional rendering.
 
-When the button is clicked, it increments count, starts from zero and is handled using the `useState` hook. A component called Text was imported into [App.js](src/App.js), contains only one `p` element and accept the prop: `count`. The `p` element has different styles and different text based on the value of the prop it is being passed oriented to the
+When the button is clicked, it increments count, starts from zero and is handled using the `useState` hook. A component called [Text.js](src/components/Text.js) was imported into [App.js](src/App.js), contains only one `p` element and accept the prop: `count`. The `p` element has different styles and different text based on the value of the prop it is being passed oriented to the
 
 #### Mockups:
 
