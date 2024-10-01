@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+main {
+  width: 50%;
+  margin: 10rem auto;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+p {
+  padding: 0.5rem;
+  background-color: rgb(159, 247, 242);
+}
+.backgroundOlive {
+  background-color: rgb(211, 211, 144);
+}
